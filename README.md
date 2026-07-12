@@ -5,8 +5,11 @@ Search for your favorite movies to discover similar recommendations, browse tren
 on your mood—all without using any frameworks or build tools.
 
 ✨ Features
+
 🔍 Movie Recommendations – Search for any movie and get similar recommendations using the TMDB API.
+
 😊 Mood-Based Discovery – Browse curated categories such as:
+
 Feel-good
 Mind-bending
 Heart-racing
