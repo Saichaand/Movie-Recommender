@@ -1,0 +1,7 @@
+# Keep your real TMDB key out of version control
+config.js
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
