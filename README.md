@@ -2,6 +2,7 @@
 
 An interactive movie recommendation web application built with HTML, CSS, and JavaScript, powered by the TMDB API. Search for your favorite movies to discover similar recommendations, browse trending titles, or explore movies based on your mood—all without using any frameworks or build tools.
 
+<<<<<<< HEAD
 ✨ Features
 🔍 Movie Recommendations – Search for any movie and get similar recommendations using the TMDB API.
 😊 Mood-Based Discovery – Browse curated categories such as:
@@ -21,6 +22,17 @@ JavaScript (ES6)
 TMDB API
 📁 Project Structure
 .
+=======
+## Features
+- **"Movies like this"** — search any title, see TMDB's recommendation results for it
+- **Mood-based discovery** — Feel-good, Mind-bending, Heart-racing, Tear-jerker, Spooky, Epic adventure
+- **Trending this week** on load
+- Click any poster for an overview, genres, rating, runtime, and director
+
+
+## Project structure
+```
+>>>>>>> 6b9262323b1083340d226a8b7c9788b0680c8c5c
 ├── index.html
 ├── style.css
 ├── app.js
