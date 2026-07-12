@@ -29,5 +29,5 @@ TMDB API<br>
 ├── style.css<br>
 ├── app.js<br>
 ├── config.example.js   # Example API configuration<br>
-├── config.js           # Your TMDB API key (ignored by Git)
+├── config.js           # Your TMDB API key (ignored by Git)<br>
 └── .gitignore
