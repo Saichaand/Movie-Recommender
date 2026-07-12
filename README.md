@@ -11,18 +11,29 @@ on your mood—all without using any frameworks or build tools.
 😊 Mood-Based Discovery – Browse curated categories such as:
 
 Feel-good
+
 Mind-bending
+
 Heart-racing
+
 Tear-jerker
+
 Spooky
+
 Epic Adventure
+
 📈 Trending This Week – View the latest trending movies when the application loads.
+
 🎥 Movie Details – Click any movie poster to view its overview, genres, rating, runtime, and director.
+
 ⚡ Lightweight – Built with vanilla HTML, CSS, and JavaScript. No frameworks or build tools required.
 
 🛠️ Technologies Used
+
 HTML5
+
 CSS3
+
 JavaScript (ES6)
 TMDB API
 📁 Project Structure
