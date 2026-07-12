@@ -24,20 +24,10 @@ JavaScript (ES6)<br>
 TMDB API<br>
 
 📁 Project Structure
-.
-=======
-## Features
-- **"Movies like this"** — search any title, see TMDB's recommendation results for it
-- **Mood-based discovery** — Feel-good, Mind-bending, Heart-racing, Tear-jerker, Spooky, Epic adventure
-- **Trending this week** on load
-- Click any poster for an overview, genres, rating, runtime, and director
 
-
-## Project structure
-
-├── index.html
-├── style.css
-├── app.js
-├── config.example.js   # Example API configuration
+├── index.html<br>
+├── style.css<br>
+├── app.js<br>
+├── config.example.js   # Example API configuration<br>
 ├── config.js           # Your TMDB API key (ignored by Git)
 └── .gitignore
